@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class Automorphic {
@@ -19,4 +20,3 @@ public class Automorphic {
 	
 
 }
-
